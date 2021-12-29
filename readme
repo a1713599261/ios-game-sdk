@@ -1,6 +1,8 @@
 对接业务：iOS 聚合打包工具，游戏sdk 封装，协助研发出iOS包，协助游戏出海，协助研发过马甲包，代码混淆、ipa包体差异化对比 有意者可联系qq:2663835738
 
 本iOS 聚合打包工具 用到了 一个开源的安卓聚合打包工具的ui页面，特别鸣谢，在此给出那位作者的链接：
+github: https://github.com/Bzaigege/PackageApkTool
+简书: https://www.jianshu.com/p/44e844ad7308
 
 本人技术能力，oc-swift-flutter-python-java
 
